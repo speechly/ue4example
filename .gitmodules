@@ -1,0 +1,3 @@
+[submodule "Plugins/Speechly"]
+	path = Plugins/Speechly
+	url = git@github.com:speechly/ue4plugin.git
