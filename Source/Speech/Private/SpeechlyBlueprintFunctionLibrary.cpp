@@ -2,7 +2,6 @@
 
 
 #include "SpeechlyBlueprintFunctionLibrary.h"
-#include "..\Public\SpeechlyBlueprintFunctionLibrary.h"
 
 
 FString USpeechlyBlueprintFunctionLibrary::PrintResponse(const FSpeechlyResponse& Response)
